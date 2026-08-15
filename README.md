@@ -17,7 +17,7 @@ The results showed a substantial difference:
 
 The experiment showed that, for this particular DpRBI-based workflow, applying the Refined Lee filter significantly reduced classification performance.
 
-## Key Concepts
+## Concepts
 
 - Sentinel-1 SLC processing
 - Dual-polarimetric SAR
