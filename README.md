@@ -30,8 +30,8 @@ The experiment showed that, for this particular DpRBI-based workflow, applying t
 
 ## Study Areas
 
-The methodology was investigated across **Delhi, Milan, and Barcelona**, with a detailed implementation carried out for **Barcelona, Spain** using ascending and descending Sentinel-1 acquisitions.
+The methodology was investigated across ""Barcelona** using ascending and descending Sentinel-1 acquisitions.
 
 ## Repository Contents
 
-The repository contains the processing notebooks, presentation, generated outputs, and supporting documentation for the project.
+The repository contains the processing notebooks, presentation, generated outputs (in notebooks), and supporting documentation for the project.
